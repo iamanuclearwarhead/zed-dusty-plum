@@ -277,7 +277,7 @@
           },
           "link_uri": {
             "color": "#dedcff",
-            "font_style": "underline",
+            "font_style": null,
             "font_weight": null
           },
           "number": {
@@ -697,7 +697,7 @@
           },
           "link_uri": {
             "color": "#745ca0",
-            "font_style": "underline",
+            "font_style": null,
             "font_weight": null
           },
           "number": {

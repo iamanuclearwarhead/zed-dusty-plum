@@ -1,7 +1,7 @@
-id = "dusty-plum"
+id = "dusty-plum-theme"
 name = "Dusty Plum"
 schema_version = 1
-version = "0.1.0"
+version = "0.1.1"
 authors = ["larp"]
 description = "Muted plum background with pastel pink accents. A dark and light theme."
 repository = "https://github.com/iamanuclearwarhead/zed-dusty-plum"
